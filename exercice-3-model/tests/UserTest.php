@@ -76,4 +76,5 @@ class UserTest extends TestCase
         $this->assertFalse($this->model->find(1));
     }
 
+
 }
